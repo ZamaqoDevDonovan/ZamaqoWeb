@@ -1,0 +1,105 @@
+{
+    "data": [
+        {"title":"Tools for Zamaqo","links":
+            [{
+                "name":"Test",
+                "link":"https://www.google.com/url?q=https://zamaqo.vercel.app/tests/order&source=gmail-html&ust=1654597877038000&usg=AOvVaw3W4lnbyuPVnywrH6jRVL7m",
+                "Description":"Something Else"
+            }]
+        },
+        {"title":"Help Desk","links":
+            [{
+                "name":"Main Helpdesk",
+                "link":"https://www.google.com/url?q=http://help.zamaqo.com/&source=gmail-html&ust=1654597877038000&usg=AOvVaw03BqkYnoCxDeZftC3td55V",
+                "Description":"Dashboard"
+            }]
+        },
+        {"title":"Sandbox Zamaqo","links":
+            [{
+                "name":"PM",
+                "link":"https://www.google.com/url?q=https://sandbox.platform.keiala.com/&source=gmail-html&ust=1654608871776000&usg=AOvVaw0BHB0ZnsJ29vfOge6AcHRL",
+                "Description":"Platform Manager"
+            },
+            {
+                "name":"MPM",
+                "link":"https://www.google.com/url?q=https://sandbox.zamaqo.keiala.com/&source=gmail-html&ust=1654608871776000&usg=AOvVaw2ESwgrmdNgKqw_0Gsr4P0R",
+                "Description":"Marketplace Manager"
+            },
+            {
+                "name":"MP",
+                "link":"https://www.google.com/url?q=https://sandbox.zamaqo.keiala.com/account/directmarketplaceaccess&source=gmail-html&ust=1654608871776000&usg=AOvVaw02AhoJxPj9seOm2o-Sl9U2",
+                "Description":"Marketplace Direct"
+            }]
+        },
+        {"title":"Business Prospects","links":
+            [{
+                "name":"List of Pharma Products",
+                "link":"https://www.google.com/url?q=https://en.wikipedia.org/wiki/List_of_largest_selling_pharmaceutical_products&source=gmail-html&ust=1654608871776000&usg=AOvVaw3nKxHfI3xveE5I-0lLIsaF",
+                "Description":"List of largest selling pharmaceutical products - Wikipedia"
+            },
+            {
+                "name":"List of Bio,Life and Pharma Science Companies",
+                "link":"https://www.google.com/url?q=https://biopharmguy.com/links/country-united-kingdom-all-location.php&source=gmail-html&ust=1654608871776000&usg=AOvVaw2_lwTtmmfVmWlyx5jPLXQm",
+                "Description":"UK - List of Biotech, Pharmaceutical & Life Sciences Companies"
+            },
+            {
+                "name":"Top 44 BioTech Companies-ZA",
+                "link":"https://www.google.com/url?q=https://savacancies.co.za/list-of-biotechnology-companies-in-south-africa/&source=gmail-html&ust=1654608871776000&usg=AOvVaw1rFQ772N4nKaaV1UFPp6q4",
+                "Description":"Top 44 Biotechnology Companies In South Africa – 2022/2023"
+            },
+            {
+                "name":"Largest BioTech and Pharma Companies",
+                "link":"https://www.google.com/url?q=https://en.wikipedia.org/wiki/List_of_largest_biotechnology_and_pharmaceutical_companies&source=gmail-html&ust=1654608871776000&usg=AOvVaw2qzQ6QLAm3SbeCsNORgPE-",
+                "Description":"List of largest biotechnology and pharmaceutical companies - Wikipedia"
+            }]
+        },
+        {"title":"Popia Act","links":
+            [{
+                "name":"Registering my information officer ",
+                "link":"https://www.google.com/url?q=https://www.michalsons.com/blog/faq-items/how-do-i-register-my-information-officer-with-the-regulator&source=gmail-html&ust=1654667370748000&usg=AOvVaw1AAbv-8qYhfNHSUBMJgvx8",
+                "Description":"How do I register my information officer with the regulator? - Michalsons"
+            },
+            {
+                "name":"Information officer Registration Form",
+                "link":"https://www.google.com/url?q=https://inforegulator.org.za/wp-content/uploads/2020/07/InfoRegSA-eForm-InformationOfficersRegistration-2021-2.pdf&source=gmail-html&ust=1654667370748000&usg=AOvVaw3-xZqfkrOP0jVUd3JSD_UE",
+                "Description":"InfoRegSA-eForm-InformationOfficersRegistration-2021-2.pdf"
+            },
+            {
+                "name":"Business Infographic",
+                "link":"https://www.google.com/url?q=https://inforegulator.org.za/wp-content/uploads/2020/07/IO-registration-Infographic-3.pdf&source=gmail-html&ust=1654667370748000&usg=AOvVaw0oT8dVDzwvDXPzvOs9uofK",
+                "Description":"Blue Entrepreneur Personalities Business Infographic"
+            },
+            {
+                "name":"Popi Act Summeary",
+                "link":"https://www.google.com/url?q=https://www.mastershred.co.za/content/18-summary-of-the-protection-of-information-act-popi-act&source=gmail-html&ust=1654667370748000&usg=AOvVaw3yDBt6V6nG7cdFoMNoB4jN",
+                "Description":"Summary Of The Protection Of Information Act (POPI Act)"
+            }]
+        },
+        {"title":"Zamaqo Vercel hidden pages","links":
+            [{
+                "name":"Zamaqo-About",
+                "link":"https://www.google.com/url?q=https://zamaqo.vercel.app/about&source=gmail-html&ust=1654667370748000&usg=AOvVaw0_ptFPGU0ke9Wv7KqH9p-O",
+                "Description":"About Section of Zamaqo Website"
+            },
+            {
+                "name":"Zamaqo-Solution",
+                "link":"https://www.google.com/url?q=https://zamaqo.vercel.app/solutions&source=gmail-html&ust=1654667370748000&usg=AOvVaw1ETJIR3L0qgr8ryr0JHRMk",
+                "Description":"Solution Section of Zamaqo Website"
+            },
+            {
+                "name":"Zamaqo-Team",
+                "link":"https://www.google.com/url?q=https://zamaqo.vercel.app/team&source=gmail-html&ust=1654667370748000&usg=AOvVaw3Ab7AlV0rmV2nkRk2ddywZ",
+                "Description":"Team Section of Zamaqo Website"
+            },
+            {
+                "name":"Zamaqo-Contact",
+                "link":"https://www.google.com/url?q=https://zamaqo.vercel.app/contact&source=gmail-html&ust=1654667370748000&usg=AOvVaw2LD3pxl80kW9shlaaMRrAx",
+                "Description":"Contact Section of Zamaqo Website"
+            }]
+        }
+    ]   
+
+    
+    
+  
+}

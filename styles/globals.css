@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body {
   padding: 0;
@@ -13,4 +17,33 @@ a {
 
 * {
   box-sizing: border-box;
+}
+.homebg{
+  background-image: url("/src/homebg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.background{
+  background-image: url("/src/hexabg.svg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  object-fit: cover;
+}
+.infoicon{
+  width: 40px;
+  position: absolute;
+  top: inherit -1px;
+  background-color: white;
+  padding: 5px;
+}
+.funky{
+  font-family: 'Kaushan Script';
+}
+@media only screen and (max-width: 1000px) {
+  .background {
+    background: none;
+  }
 }
