@@ -1,5 +1,5 @@
 
-export default function infocard({heading,body}) {
+export default function infocard({heading,body,id}) {
     return (
         <div className="p-5 bg-white" >
             <img src="src/infoicon.png" className=" infoicon"></img>
