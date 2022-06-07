@@ -75,7 +75,7 @@ function Example({ posts }) {
                                 <tbody>
                                     {array.map(function (d, idx) {
                                         return (
-                                            <tr className="border-2">
+                                            <tr key={idx} className="border-2">
                                                 <td>{d.name}</td>
                                                 <td>{d.Description}</td>
                                                 <td><Link href={d.link}>Click Here...</Link></td>

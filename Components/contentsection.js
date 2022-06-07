@@ -42,7 +42,7 @@ export default function footer({ heading, extra, body, type }) {
                                 domEll.push(element)
                             });
                             return (
-                                <li>{domEll}</li>
+                                <li key={idx}>{domEll}</li>
                             );
 
                             //return (<li key={idx}>{d}</li>)

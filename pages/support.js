@@ -49,11 +49,11 @@ export default function Example() {
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 justify-items-center content-center place-items-center py-10'>
                     {cards.map(function (d, idx) {
                         if (d.type == "img") {
-                            return (<div className=" md:w-[100%] flex justify-items-center content-center place-items-center">
+                            return (<div key={idx} className=" md:w-[100%] flex justify-items-center content-center place-items-center">
                                 <img className="px-[0px] sm:px-[5%]  md:px-[20%]  " src={d.title} />
                             </div>)
                         } else {
-                            return (<Carditem title={d.title} body={d.body}></Carditem>)
+                            return (<Carditem key={idx} title={d.title} body={d.body}></Carditem>)
                         }
 
                     })}
